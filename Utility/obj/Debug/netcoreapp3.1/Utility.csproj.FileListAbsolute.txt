@@ -1,0 +1,49 @@
+C:\Users\ls\source\repos\Utility\Utility\bin\Debug\netcoreapp3.1\Utility.exe
+C:\Users\ls\source\repos\Utility\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+C:\Users\ls\source\repos\Utility\Utility\bin\Debug\netcoreapp3.1\Utility.runtimeconfig.json
+C:\Users\ls\source\repos\Utility\Utility\bin\Debug\netcoreapp3.1\Utility.runtimeconfig.dev.json
+C:\Users\ls\source\repos\Utility\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\ls\source\repos\Utility\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\ls\source\repos\Utility\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
+C:\Users\ls\source\repos\Utility\Utility\obj\Debug\netcoreapp3.1\Utility.Form1.resources
+C:\Users\ls\source\repos\Utility\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.GenerateResource.cache
+C:\Users\ls\source\repos\Utility\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+C:\Users\ls\source\repos\Utility\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+C:\Users\ls\source\repos\Utility\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+C:\Users\ls\source\repos\Utility\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+C:\Users\ls\source\repos\Utility\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\ls\source\repos\Utility\Utility\obj\Debug\netcoreapp3.1\Utility.genruntimeconfig.cache
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.exe
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.runtimeconfig.json
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.runtimeconfig.dev.json
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.Form1.resources
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.GenerateResource.cache
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.genruntimeconfig.cache
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\MetroSet UI.dll
+C:\Users\ls\Desktop\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CopyComplete
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.csprojAssemblyReference.cache
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.Form1.resources
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.GenerateResource.cache
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfoInputs.cache
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.AssemblyInfo.cs
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CoreCompileInputs.cache
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.dll
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.exe
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.deps.json
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.runtimeconfig.json
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.runtimeconfig.dev.json
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.dll
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\Utility.pdb
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\bin\Debug\netcoreapp3.1\MetroSet UI.dll
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.csproj.CopyComplete
+C:\Users\ls\Desktop\New folder\VBA_Gerador_-Query_-Simples\VBA_Gerador_-Query_-Simples\Utility\obj\Debug\netcoreapp3.1\Utility.genruntimeconfig.cache
