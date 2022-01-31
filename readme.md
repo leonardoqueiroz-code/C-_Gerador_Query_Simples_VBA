@@ -4,7 +4,6 @@
 </h1>
 <p align="center">🚀 Aplicação windows form gerador de query script para VBA </p>
 
-
 Tabela de conteúdos
 =================
 <!--ts-->
