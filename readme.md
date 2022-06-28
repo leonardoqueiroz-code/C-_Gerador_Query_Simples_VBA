@@ -23,7 +23,7 @@ Status do Projeto
 <h4 align="center"> 
 	🚧  Gerador de Query - MYSQL 🚀 Finalizado  🚧
 	
-	obs: Projeto Descontinuado temporáriamente.
+	obs: Projeto sem atualizações temporáriamente.
 </h4>
 
 Instalação
