@@ -21,7 +21,9 @@ Tabela de conteúdos
 Status do Projeto
 =================
 <h4 align="center"> 
-	🚧  Gerador de Query - MYSQL 🚀 Em desenvolvimento  🚧
+	🚧  Gerador de Query - MYSQL 🚀 Finalizado  🚧
+	
+	obs: Projeto Descontinuado temporáriamente.
 </h4>
 
 Instalação
